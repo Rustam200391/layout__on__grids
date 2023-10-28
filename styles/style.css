@@ -3,3 +3,15 @@
     src: local("Titilium"),
     url("../assets/fonts/Titillium_Web/TitilliumWeb-Light.ttf");
 }
+
+.page{
+    background: linear-gradient(179.6deg, #000000 -14.47%, rgba(0, 0, 0, 0) 309.69%),
+    linear-gradient(0.7deg, #0D0D0D 3.57%, rgba(0, 0, 0, 0) 36.73%),
+    linear-gradient(0deg, #D9D9D9, #D9D9D9);
+    min-height: 1010px;
+}
+
+.page__block {
+    background:url("../assets/img/Rectangle\ 83.png")  no-repeat;
+    min-height: 990px;
+}
